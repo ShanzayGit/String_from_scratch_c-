@@ -23,10 +23,10 @@ String_from_scratch_c-/
 4. Press **Ctrl+F5** to build and run.
 
 ### 🔹 On Linux/Mac (g++)
-
+```
 g++ String.cpp main.cpp -o string_app
 ./string_app
-
+```
 
 ## 🧩 Example Usage
 String s1("Hello");
