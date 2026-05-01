@@ -45,11 +45,16 @@ cout << "Length: " << s3.length() << endl;
 - Length function
 - Substring extraction
 - Character access (`[]`)
-- 
+- Find string
+- Replace string
+- Typecast operators(long long int , double)
+- Reverse string
+- Insert into a string
+- Trim from left/right
+- Stream insertion and extraction operators (`<<` and `>>`) 
 
 ## 📌 Future Improvements
-- Add unit tests for all functions.
-- Implement advanced string operations (find, replace).
+- Add unit tests for all functions
 - Provide benchmarks vs `std::string`.
 
 
