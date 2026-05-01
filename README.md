@@ -9,7 +9,7 @@ It showcases fundamental concepts of **object-oriented programming, operator ove
 String_from_scratch_c-/
 - String.h          # Header file (class definition)
 - String.cpp        # Implementation file
-- main.cpp          # Example usage (to be added)
+- main.cpp          # Example usage
 - .gitignore
 - .gitattributes
 
